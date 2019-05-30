@@ -1,1 +1,1 @@
-# QRR
+# QualityRateReporter
