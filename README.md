@@ -1,5 +1,5 @@
 # QualityRateReporter
-![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/description.png)
+![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/description.png)
 
 ## Problem Statement
 
@@ -14,14 +14,14 @@
 * Gathering information from sensors and collecting them at the cloud, our mobil and web application can report detailed information about public place and an overall score calculated according to the user’s priorities
 
 ### Iot architecture
-![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/QualityRateReporter%20(1).png)
+![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/QualityRateReporter%20(1).png)
 
 ### Schematic of our application
-![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Schematic.png)
+![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/Schematic.png)
 
 ## Demo
 Here is a photo from demo.
-![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/demo.png)
+![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/demo.png)
 
 ### Used Open Source Libraries
 
