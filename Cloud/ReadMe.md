@@ -1,4 +1,4 @@
-## Read me.
+## Read me
 
 This code is working on NodeRed. (https://nodered.org)
 
@@ -7,4 +7,4 @@ Gaues show current data on web and mobile app.
 
 ## Node-Red flow
 
-![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/nodeRed.png)
+![Node-Red flow](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/nodeRed.png)
