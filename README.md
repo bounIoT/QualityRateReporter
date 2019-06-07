@@ -11,10 +11,17 @@
 
 * Ultrasonic sensors mounted at the entrances helps counting people coming in and out of the public places
 * Humidity & Temperature sensors placed at various locations in the public place helps to obtain a general air quality measurement
-* Gathering information from sensors and collecting them at the cloud, our app can report detailed information about public place and an overall score calculated according to the user’s priorities
+* Gathering information from sensors and collecting them at the cloud, our mobil and web application can report detailed information about public place and an overall score calculated according to the user’s priorities
 
 ![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/QualityRateReporter%20(1).png)
+
+
 ![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Schematic.png)
+Schematic of our application.
+
+## Demo
+Here is a photo from demo.
+![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/demo.png)
 
 ### Used Open Source Libraries
 
