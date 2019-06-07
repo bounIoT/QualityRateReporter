@@ -1,6 +1,11 @@
 # QualityRateReporter
 ![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/description.png)
 
+## Contact
+* [Ece Ata] (https://github.com/eceatata)
+* [Ali Turgutalp] (https://github.com/aliturgutalp)
+* [Muhemmed Kadir Tan] (https://github.com/mkadirtan)
+
 ## Problem Statement
 
 * Crowdedness, air quality and temperature of the public places vary during time, and it is not possible for a user to know this information about the place beforehand
