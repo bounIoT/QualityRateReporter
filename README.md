@@ -26,7 +26,7 @@ Here is a photo from demo.
 ### Used Open Source Libraries
 
 * [NodeRed](https://nodered.org/)
-* React Native
+* [React Native](https://facebook.github.io/react-native/)
 
 ## Components
 
