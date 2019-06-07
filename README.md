@@ -25,7 +25,6 @@
 
 Component | Name | Action
 ---|---|---
-
 Ultrasonic Sensor | HC-SR04  | Integration
 Humidity & Temperature Sensor | DHT11 | Integration
 Connectivity | Wifi and MQTT | Development (Relatively high energy consumption)
