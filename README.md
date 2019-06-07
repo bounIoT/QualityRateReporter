@@ -2,9 +2,9 @@
 ![A1](https://github.com/bounIoT/QualityRateReporter/blob/master/Pictures/description.png)
 
 ## Contact
-* [Ece Ata] (https://github.com/eceatata)
-* [Ali Turgutalp] (https://github.com/aliturgutalp)
-* [Muhemmed Kadir Tan] (https://github.com/mkadirtan)
+* [Ece Ata](https://github.com/eceatata)
+* [Ali Turgutalp](https://github.com/aliturgutalp)
+* [Muhemmed Kadir Tan](https://github.com/mkadirtan)
 
 ## Problem Statement
 
